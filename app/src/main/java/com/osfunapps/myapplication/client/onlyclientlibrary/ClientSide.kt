@@ -1,10 +1,8 @@
-package com.osfunapps.myapplication.client
+package com.osfunapps.myapplication.client.onlyclientlibrary
 
 import android.content.Context
-import android.view.View
 import com.neovisionaries.ws.client.*
-import com.osfunapps.myapplication.MainActivity
-import com.osfunapps.myapplication.server.NaiveSSLContext
+import com.osfunapps.myapplication.server.onlyclientlibrary.NaiveSSLContext
 
 class ClientSide(private val context: Context) {
 

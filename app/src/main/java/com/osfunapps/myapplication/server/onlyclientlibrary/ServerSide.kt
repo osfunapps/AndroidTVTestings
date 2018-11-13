@@ -1,4 +1,4 @@
-package com.osfunapps.myapplication.server
+package com.osfunapps.myapplication.server.onlyclientlibrary
 
 import android.content.Context
 

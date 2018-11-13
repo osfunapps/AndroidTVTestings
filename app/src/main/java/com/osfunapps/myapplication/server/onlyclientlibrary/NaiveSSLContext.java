@@ -1,4 +1,4 @@
-package com.osfunapps.myapplication.server;/*
+package com.osfunapps.myapplication.server.onlyclientlibrary;/*
  * Copyright (C) 2015 Neo Visionaries Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
